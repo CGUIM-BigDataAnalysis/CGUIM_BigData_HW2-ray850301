@@ -29,9 +29,9 @@ Sys.Date()
 
 ##字串比大小
 ```{r}
-char1="A"
-char2="a"
-char3="b"
+char1<-"A"
+char2<-"a"
+char3<-"b"
 
 char1>char2
 
