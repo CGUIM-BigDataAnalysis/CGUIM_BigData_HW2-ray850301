@@ -1,5 +1,5 @@
 ---
-  title: "長庚大學 大數據分析方法 作業二"
+title: "長庚大學 大數據分析方法 作業二"
 output: github_document
 ---
 
